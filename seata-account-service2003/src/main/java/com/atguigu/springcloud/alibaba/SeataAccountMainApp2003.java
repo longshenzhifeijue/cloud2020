@@ -9,8 +9,6 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
  * @date 2020/3/25 22:03
  */
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
-@AllArgsConstructor
-@NoArgsConstructor
 public class SeataAccountMainApp2003 {
     public static void main(String[] args) {
         SpringApplication.run(SeataAccountMainApp2003.class,args);

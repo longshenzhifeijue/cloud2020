@@ -1,0 +1,10 @@
+
+tsquid:UselessImportCheck"DRemove this unused import 'com.netflix.loadbalancer.RoundRobinRule'.(æ§œÃúÿÿÿÿ8Î·½ïÍ.
+esquid:UselessImportCheck":Remove this unused import 'com.atguigu.myrule.MySelfRule'.(…¶¢Ì8ªÔÉñÍ.
+‚squid:UselessImportCheck
+"RRemove this unused import 'org.springframework.cloud.netflix.ribbon.RibbonClient'.(âèª…øÿÿÿÿ8ªÔÉñÍ.
+squid:UselessImportCheck"ORemove this unused import 'org.springframework.boot.context.TypeExcludeFilter'.(®´ûÿÿÿÿ8èÿíÍ.
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8èÿíÍ.
+Œsquid:UselessImportCheck"bRemove this unused import 'org.springframework.boot.autoconfigure.AutoConfigurationExcludeFilter'.(şò¡68èÿíÍ.
+~squid:UselessImportCheck"NRemove this unused import 'org.springframework.context.annotation.FilterType'.(ãƒ€Òÿÿÿÿÿ8èÿíÍ.
+ksquid:UselessImportCheck"@Remove this unused import 'com.netflix.loadbalancer.RandomRule'.(¢ÕÏó8ö«ïÍ.

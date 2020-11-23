@@ -1,5 +1,5 @@
 server:
-  port: 84
+  port: 8484
 spring:
   application:
     name: nacos-order-consumer

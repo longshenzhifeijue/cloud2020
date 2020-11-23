@@ -36,7 +36,7 @@ public class PaymentService {
     })
     public String paymentInfo_Timeout(Integer id){
         int timeNumber = 5;
-        int age = 10/0;
+//        int age = 10/0;
         /*try{
             TimeUnit.SECONDS.sleep(timeNumber);
         }catch (InterruptedException e){
